@@ -1,12 +1,3 @@
-/*
- * ECE 153B
- *
- * Name(s):
- * Section:
- * Lab: 5B
- */
-
-
 #include "ADC.h"
 #include "DAC.h"
 #include "EXTI.h"
